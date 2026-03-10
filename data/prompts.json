@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "portrait",
+      "name": "人物肖像",
+      "order": 0
+    },
+    {
+      "id": "product",
+      "name": "产品广告",
+      "order": 1
+    },
+    {
+      "id": "scene",
+      "name": "场景氛围",
+      "order": 2
+    }
+  ],
+  "prompts": [
+    {
+      "id": "portrait-soft-daylight",
+      "title": "柔光人像",
+      "content": "Close-up portrait, soft daylight from window, natural skin texture, cinematic depth of field, elegant neutral palette, editorial photography, ultra detailed.",
+      "categoryId": "portrait",
+      "tags": [
+        "portrait",
+        "soft light",
+        "editorial"
+      ],
+      "createdAt": "2026-03-10T00:00:00.000+08:00",
+      "updatedAt": "2026-03-10T00:00:00.000+08:00"
+    },
+    {
+      "id": "product-watch-launch",
+      "title": "腕表发布海报",
+      "content": "Luxury watch on basalt stone pedestal, dramatic rim light, crisp highlights on metal edges, premium commercial photography, deep shadow, clean negative space for headline.",
+      "categoryId": "product",
+      "tags": [
+        "watch",
+        "premium",
+        "poster"
+      ],
+      "createdAt": "2026-03-10T00:00:00.000+08:00",
+      "updatedAt": "2026-03-10T00:00:00.000+08:00"
+    },
+    {
+      "id": "scene-rainy-neon-alley",
+      "title": "雨夜霓虹街巷",
+      "content": "Rain-soaked alley at night, reflective pavement, teal and amber neon signage, drifting mist, cinematic atmosphere, layered depth, moody urban storytelling.",
+      "categoryId": "scene",
+      "tags": [
+        "neon",
+        "rain",
+        "cinematic"
+      ],
+      "createdAt": "2026-03-10T00:00:00.000+08:00",
+      "updatedAt": "2026-03-10T00:00:00.000+08:00"
+    }
+  ]
+}
