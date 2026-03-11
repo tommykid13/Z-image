@@ -19,6 +19,19 @@
   ],
   "prompts": [
     {
+      "id": "prompt-2teuhi",
+      "title": "按键上的传送门",
+      "content": "A highly detailed, photorealistic digital artwork depicts a miniature fantasy landscape meticulously integrated onto the surface of a dark gray computer keyboard's \"Enter\" key. The \"Enter\" key, with its white sans-serif text prominently displayed on the lower right, serves as the base for an enchanting scene.\n\nCentral to this miniature world is an ancient, weathered stone archway, heavily overgrown with vibrant green moss and leafy vines, particularly on its upper and right sections where tree roots also intertwine with the structure. Through this archway, a brilliant, golden light emanates, illuminating a winding path made of irregular flagstones. A solitary figure, seen from behind, wearing a dark jacket and a backpack, walks along this path towards the luminous portal created by the archway, suggesting a journey into a new realm.\n\nTo the left of the archway, an antique-style street lamp with an ornate black metal frame hangs, casting a warm, orange glow that softly illuminates the immediate foreground. Adjacent to the path on the left, two clusters of red-capped mushrooms with white stems are nestled within patches of lush green grass, adding a touch of whimsical detail. The area surrounding the path is rich with meticulously rendered grass and small rocks.\n\nBeyond the archway, a vibrant, ethereal landscape unfolds, bathed in soft golden light, hinting at either dawn or dusk. Rolling hills or distant mountains are visible under a clear, bright sky, punctuated by soft clouds. Numerous trees and abundant foliage are depicted in verdant greens, contributing to the sense of a thriving, magical world.\n\nThe overall composition features a very shallow depth of field, with the miniature scene on the \"Enter\" key rendered in sharp focus. Surrounding keyboard keys, such as those marked with '&', 'O', and a German umlaut (¨) with 'u', are visible in the periphery but are softly blurred, emphasizing the 'Enter' key as the focal point. The keys exhibit a matte, dark gray texture, and the lighting is dramatic, highlighting the magical transformation of the mundane keyboard key.\nSteps: 15, CFG scale: 1.5, Sampler: Euler",
+      "categoryId": "portrait",
+      "tags": [
+        "其他",
+        "插画"
+      ],
+      "imagePath": "/uploads/prompt-2teuhi.png",
+      "createdAt": "2026-03-11T08:30:52.241Z",
+      "updatedAt": "2026-03-11T08:31:21.974Z"
+    },
+    {
       "id": "prompt-fr78pe",
       "title": "女警",
       "content": "25岁的亚洲女性，凌乱中短发，身高172厘米，模特身材。身着警察制服，油光质感黑色丝袜，高跟鞋。\n警车，打开的车门，女人坐在座位上。拿着手铐，大拇指指着车内，示意上车。\n雨夜，氛围悬疑而暧昧。",
