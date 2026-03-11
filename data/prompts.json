@@ -17,5 +17,18 @@
       "order": 2
     }
   ],
-  "prompts": []
+  "prompts": [
+    {
+      "id": "prompt-n9zzkj",
+      "title": "咖啡厅自拍",
+      "content": "photo. fun sexy sensual popular college student female taking sexy selfie while sitting in a coffee shop, high angle. flirty. kiss lips, hand on chest, blonde, blue eyes",
+      "categoryId": "portrait",
+      "tags": [
+        "美女"
+      ],
+      "imagePath": "/uploads/prompt-n9zzkj.png",
+      "createdAt": "2026-03-11T07:01:38.642Z",
+      "updatedAt": "2026-03-11T07:02:07.212Z"
+    }
+  ]
 }
