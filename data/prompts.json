@@ -19,6 +19,31 @@
   ],
   "prompts": [
     {
+      "id": "prompt-fr78pe",
+      "title": "女警",
+      "content": "25岁的亚洲女性，凌乱中短发，身高172厘米，模特身材。身着警察制服，油光质感黑色丝袜，高跟鞋。\n警车，打开的车门，女人坐在座位上。拿着手铐，大拇指指着车内，示意上车。\n雨夜，氛围悬疑而暧昧。",
+      "categoryId": "portrait",
+      "tags": [
+        "美女"
+      ],
+      "imagePath": "/uploads/prompt-fr78pe.png",
+      "createdAt": "2026-03-11T08:28:31.176Z",
+      "updatedAt": "2026-03-11T08:28:44.879Z"
+    },
+    {
+      "id": "prompt-44w93w",
+      "title": "猫咪咖啡",
+      "content": "Epic A fluffy orange tabby cat wearing a tiny knitted scarf, sitting on a wooden table next to a steaming latte with heart-shaped foam art, warm afternoon sunlight streaming through a window, soft bokeh background, cozy café atmosphere, pastel color palette, digital art style\nNegative prompt: sfw blurry ugly bad,\nSteps: 8, CFG scale: 1, Sampler: Euler, Seed: 770663691395463",
+      "categoryId": "portrait",
+      "tags": [
+        "动漫",
+        "插画"
+      ],
+      "imagePath": "/uploads/prompt-44w93w.png",
+      "createdAt": "2026-03-11T08:11:43.163Z",
+      "updatedAt": "2026-03-11T08:12:00.259Z"
+    },
+    {
       "id": "prompt-1h0ma8",
       "title": "田野治愈",
       "content": "foreground-to-background composition: an old weathered windmill atop a windswept rural hill, looking down across endless patchwork fields of golden wheat and green barley swaying in the breeze, clusters of rustic farmsteads with thatched roofs and haystacks tucked into small valleys, dirt roads meandering between low stone walls and wild hedgerows, distant foggy woodland hills rising dramatically under a vast sky filled with soft clouds, immense depth and heroic rural grandeur, classic anime landscape painting vibe, thick impasto-like painterly strokes fused with radiant digital painting, nostalgic majestic mood, warm afternoon sunlight\nSteps: 10, CFG scale: 1, Sampler: Euler, Seed: 604046842212599",
