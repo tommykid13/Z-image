@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-1h0ma8",
+      "title": "田野治愈",
+      "content": "foreground-to-background composition: an old weathered windmill atop a windswept rural hill, looking down across endless patchwork fields of golden wheat and green barley swaying in the breeze, clusters of rustic farmsteads with thatched roofs and haystacks tucked into small valleys, dirt roads meandering between low stone walls and wild hedgerows, distant foggy woodland hills rising dramatically under a vast sky filled with soft clouds, immense depth and heroic rural grandeur, classic anime landscape painting vibe, thick impasto-like painterly strokes fused with radiant digital painting, nostalgic majestic mood, warm afternoon sunlight\nSteps: 10, CFG scale: 1, Sampler: Euler, Seed: 604046842212599",
+      "categoryId": "portrait",
+      "tags": [
+        "插画"
+      ],
+      "imagePath": "/uploads/prompt-1h0ma8.png",
+      "createdAt": "2026-03-11T07:46:39.216Z",
+      "updatedAt": "2026-03-11T07:46:57.664Z"
+    },
+    {
       "id": "prompt-xnb0pc",
       "title": "怒瞪的美女",
       "content": "Photograph of a young cute french woman with fair skin and dark black eyes, sitting at an indoor college cafeteria lunch table. She has long, dark brown hair that is slightly wavy and parted to the side, with a few loose strands framing her face. Her facial features are delicate, with a slightly upturned nose and full lips. She has no makeup on, her face is bare. She is wearing a white longsleeve button-up collared shirt, her shirt is unbuttoned revealing cleavage from her massive sagging breasts. She has a slender build with a large bust size. She is resting her head on her right hand, which is adorned with a gold bracelet and small, dangling earrings. Her left hand is placed on the table, holding a napkin.\n\nIn the background, there are several male and female classmates in similar uniforms sitting at tables and walking around the cafeteria. The table has a lunch tray with a salad and a small carton of chocolate milk on it. The overall setting is elegant and bright, with natural light illuminating the scene. The photo is being taken from several tables away. The woman's expression is contemplative and slightly annoyed at her picture being taken. she is staring directly at the viewer",
