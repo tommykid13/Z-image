@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-h89wdq",
+      "title": "阳光水手服",
+      "content": "Vibrant Japanese photobook portrait of a cheerful East Asian schoolgirl in a navy seifuku waving from a bright yellow bicycle, framed by creamy telephoto bokeh on a sun-dappled street. Mood is cheerful, youthful, airy.\nComposition: complex_scene.\nLighting: balanced, 3:1, soft diffused ambient key, soft_diffused, lifted_shadows, strong golden rim light on hair.\nPose: seated on bicycle, dynamic S-curve, right arm raised high waving.\nLens: extremely shallow depth of field, creamy bokeh.\nSubject: 18-year-old East Asian woman, refined V-shaped face, large double-lidded eyes.\nSkin: luminous fair porcelain skin, translucent milky complexion.\nStyling: navy sailor uniform, red scarf, thigh-highs, natural makeup.\nColor & Post: vibrant palette. Fujifilm Provia emulation. Japanese airy aesthetic. subtle film grain. selective saturation boost, lifted shadows, soft highlight bloom.\nDetails: fine peach fuzz, black bag in basket, 135mm f/1.8, soft luminous shadows, sun-dappled patches.",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-h89wdq.png",
+      "createdAt": "2026-03-16T08:50:40.256Z",
+      "updatedAt": "2026-03-16T08:51:00.462Z"
+    },
+    {
       "id": "prompt-cy819w",
       "title": "婚纱照",
       "content": "Ethereal romantic portrait of a bride in a ruffled mini-dress and veil, seated in a vintage study, bathed in intense glowing backlight with a dramatic 4:1 lighting ratio, creating a luminous halo effect against the warm dark wooden background. The mood is ethereal, romantic, luminous, and dreamy.\nLighting: low_key, HIGH CONTRAST, 4:1 ratio, 60% deep shadow, dramatic chiaroscuro. Intense directional upper-left backlight. Mixed hard backlight with soft diffused fill. Lifted shadows. Strong highlight blooming.\nColor & Post: Warm nostalgic palette, amber and creamy whites. Kodak Portra 400. S-curve contrast, highlight bloom / soft glow, lifted shadows. Subtle film grain.\nSubject: 20-year-old East Asian woman, refined V-shaped face. Bright ivory-white skin, milky translucent complexion. Strong subsurface scattering. Serene, alluring. Seated on armchair, right knee raised, leaning back, C-curve spine. Right hand on armrest, left on thigh. Torso angled 45 degrees left.\nStyling: Short white ruffled bridal mini-dress, sheer tulle veil, white lace thigh-high stockings. Igari makeup, pink eyeshadow, rosy blush. Long wavy brown hair.\nSetting: complex_scene, vintage European-style study, dark wooden bookshelves, carved armchair. 85mm lens, extremely shallow depth of field.",
