@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-7z04sd",
+      "title": "青衣古风",
+      "content": "这是一张高分辨率、超写实的照片，淡淡的青绿色汉服，古风服饰，花卉，银丝，精致的薄透如纱，半透明的服饰覆盖全身，单人女性，拿着一把圆形团扇，背对镜头，向后看，眉清目秀，羞涩，隐约露齿，含蓄微笑，脸细腻光滑，高挑的身材，腰短腿长，沙漏身材，细腰，黑色头发盘起，露出耳朵，露出额头，性感, 空灵魅惑，慵懒的姿势，身段婀娜的站着，全身像, 同色系的，系带款，通透花卉， 柔光，漫反射，光影，简单背景，巨乳，华丽的古风背景，中式园林，传统发饰，花瓣飞舞，",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-7z04sd.png",
+      "createdAt": "2026-03-16T05:58:21.465Z",
+      "updatedAt": "2026-03-16T05:58:41.380Z"
+    },
+    {
       "id": "prompt-es4n5b",
       "title": "蝴蝶美女",
       "content": "Create a close-up, ethereal portrait of a woman. She has striking blue eyes. Her face and hair are adorned with delicate butterflies, some resting on her lips and face, and tiny dried blue flowers. The lighting is soft and diffused, creating a dreamy atmosphere with a touch of melancholy. The overall style is reminiscent of a fashion magazine cover, with a focus on beauty and a connection with nature. Use muted, cool tones with emphasis on the blues and purples of the butterflies and flowers.",
