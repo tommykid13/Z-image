@@ -19,6 +19,19 @@
   ],
   "prompts": [
     {
+      "id": "prompt-es4n5b",
+      "title": "蝴蝶美女",
+      "content": "Create a close-up, ethereal portrait of a woman. She has striking blue eyes. Her face and hair are adorned with delicate butterflies, some resting on her lips and face, and tiny dried blue flowers. The lighting is soft and diffused, creating a dreamy atmosphere with a touch of melancholy. The overall style is reminiscent of a fashion magazine cover, with a focus on beauty and a connection with nature. Use muted, cool tones with emphasis on the blues and purples of the butterflies and flowers.",
+      "categoryId": "portrait",
+      "tags": [
+        "插画",
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-es4n5b.png",
+      "createdAt": "2026-03-16T05:46:43.003Z",
+      "updatedAt": "2026-03-16T05:47:03.068Z"
+    },
+    {
       "id": "prompt-10n2eq",
       "title": "草原高山",
       "content": "Green alpine meadow with wildflowers. Snow-capped mountains in background. Clear blue sky. Fluffy white clouds. Bright sunlight. Small mountain stream. No people.",
