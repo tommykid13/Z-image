@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-iekjyv",
+      "title": "汽水广告",
+      "content": "湿润的 330 毫升橙色铝制汽水罐的商业产品摄影，罐身覆盖着新鲜冰冷的冷凝水珠，罐体上有大号粗体白色斜体文字“ORANGE”，以及较小的文字“FLAVORED”，底部附近有小字“330ml”，橙汁动态液体爆炸式地溅在罐子周围，带有次表面散射效果，漂浮着带有细致果肉纹理的新鲜橙片和悬浮在空中的绿色薄荷叶，橙色渐变背景中有模糊的大字“ORANGE”，工作室布光，逆光，高速摄影，凝固瞬间，罐体对焦锐利，前景元素模糊，超现实，8k 分辨率，Octane 渲染风格 --ar 2:3 --stylize 250",
+      "categoryId": "portrait",
+      "tags": [
+        "插画"
+      ],
+      "imagePath": "/uploads/prompt-iekjyv.png",
+      "createdAt": "2026-03-17T04:04:29.153Z",
+      "updatedAt": "2026-03-17T06:06:30.718Z"
+    },
+    {
       "id": "prompt-f81nxw",
       "title": "卧室三连拍",
       "content": "The resemblance is 100% unchanged. Beautiful, light makeup, long, voluminous, and smooth hair. Blue eyes. Create a triptych composition depicting a woman at home, lying on a bed, propped up by a pillow, during golden hour. She is wearing a strappy top. The photo is waist-length. The top frame shows a close-up of her face, taking a first-person selfie, looking sideways at the camera, the sun illuminating her face in a streak, and she is wearing a silver ear cuff.\nThe center frame shows a close-up of the same woman's lips, as she runs her hand over her lips. The bottom frame shows a close-up of her eyes. The same woman is depicted on the same bed, her head tilted back, shot from the side, the sun illuminating her eyes in a streak. In all the frames, her hair falls over her face, obscuring part of it. The color palette is muted. The overall style evokes romance.\nVisible grain is present.",
@@ -65,17 +77,6 @@
       "imagePath": "/uploads/prompt-blcbe0.png",
       "createdAt": "2026-03-17T04:15:17.591Z",
       "updatedAt": "2026-03-17T04:15:39.062Z"
-    },
-    {
-      "id": "prompt-iekjyv",
-      "title": "汽水广告",
-      "content": "湿润的 330 毫升橙色铝制汽水罐的商业产品摄影，罐身覆盖着新鲜冰冷的冷凝水珠，罐体上有大号粗体白色斜体文字“ORANGE”，以及较小的文字“FLAVORED”，底部附近有小字“330ml”，橙汁动态液体爆炸式地溅在罐子周围，带有次表面散射效果，漂浮着带有细致果肉纹理的新鲜橙片和悬浮在空中的绿色薄荷叶，橙色渐变背景中有模糊的大字“ORANGE”，工作室布光，逆光，高速摄影，凝固瞬间，罐体对焦锐利，前景元素模糊，超现实，8k 分辨率，Octane 渲染风格 --ar 2:3 --stylize 250",
-      "categoryId": "portrait",
-      "tags": [
-        "插画"
-      ],
-      "createdAt": "2026-03-17T04:04:29.153Z",
-      "updatedAt": "2026-03-17T04:04:41.382Z"
     },
     {
       "id": "prompt-fk37dw",
