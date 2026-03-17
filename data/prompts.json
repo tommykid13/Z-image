@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-ktfohy",
+      "title": "光影照片",
+      "content": "Artistic portrait of an elegant Asian woman wearing a black silk cheongsam (qipao), standing among red camellia flowers and delicate branches, soft natural sunlight filtering through leaves creating beautiful shadow patterns across her face, short slightly messy bob haircut, natural freckles and minimal makeup, calm thoughtful expression, cinematic shallow depth of field, dreamy garden atmosphere, warm golden hour lighting, soft bokeh background, fine art photography style, ultra-realistic skin texture, high detail, 85mm lens, 8K.",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-ktfohy.png",
+      "createdAt": "2026-03-17T04:20:26.132Z",
+      "updatedAt": "2026-03-17T04:20:53.049Z"
+    },
+    {
       "id": "prompt-blcbe0",
       "title": "金发水手",
       "content": "A medium full-body portrait photograph captured by a Sony A1 with a 50mm f/1.4 GM lens, showing Anya Taylor-Joy kneeling on a large, voluminous, soft white textured blanket that covers the bed in a minimalist bedroom. Her back is pronouncedly arched, and her entire upper body is rotated to face the camera directly. She has a steady, confident expression, looking directly at the viewer with her distinct widely spaced light blue-grey eyes. Her wavy platinum blonde hair is neatly parted and styled into two distinct, symmetric low ponytails. Anya wears a classic Japanese sailor school uniform consisting of a white short-sleeved blouse with a prominent navy blue sailor collar and a red bow tie, paired with a dark blue pleated mini skirt featuring thin white horizontal stripes. She also wears white, thigh-high lace-trimmed stockings in a garter belt style, with the garters visible on her thighs. Both her hands are free and resting on the blanket in front of her. The camera is slightly below eye level, focusing sharply on Anya's face and intricate outfit details. The background elements of the white blanket and simple grey walls are clean, minimalist, and non-distracting. The lighting is bright, soft natural indoor lighting. The image is ultra-photorealistic, raw style, 8k, high fidelity portraiture, aesthetic cosplay. The aspect ratio is 9:16.",
