@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-f81nxw",
+      "title": "卧室三连拍",
+      "content": "The resemblance is 100% unchanged. Beautiful, light makeup, long, voluminous, and smooth hair. Blue eyes. Create a triptych composition depicting a woman at home, lying on a bed, propped up by a pillow, during golden hour. She is wearing a strappy top. The photo is waist-length. The top frame shows a close-up of her face, taking a first-person selfie, looking sideways at the camera, the sun illuminating her face in a streak, and she is wearing a silver ear cuff.\nThe center frame shows a close-up of the same woman's lips, as she runs her hand over her lips. The bottom frame shows a close-up of her eyes. The same woman is depicted on the same bed, her head tilted back, shot from the side, the sun illuminating her eyes in a streak. In all the frames, her hair falls over her face, obscuring part of it. The color palette is muted. The overall style evokes romance.\nVisible grain is present.",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-f81nxw.png",
+      "createdAt": "2026-03-17T05:06:51.939Z",
+      "updatedAt": "2026-03-17T05:07:12.252Z"
+    },
+    {
       "id": "prompt-sgl4oa",
       "title": "街头女警",
       "content": "这是一张使用 Leica M10-R 相机配合 35mm f/1.4 镜头拍摄的 8K 超写实全景人像照片。画面呈现出一种纪实摄影风格，具有真实的胶片感颗粒、细腻的皮肤纹理和清晰的织物细节，比例为 9:16。\n\n场景与氛围：\n场景设定在一个夜晚的都市马路边柏油地面上，镜头紧凑地聚焦于主角。背景中可以看到模糊的 SUV 汽车、建筑、树木和街道标线。整体氛围融合了都市夜晚的冷酷自信与真实的街道质感。光线采用了城市夜间混合光源（环境街灯、汽车大灯、远处的建筑灯光），营造出既粗砺又干净的视觉效果，带有柔和但清晰的阴影。\n\n人物特征：\n主角是杨幂。她留着一头时髦的乌黑长发，拥有极具辨识度的面部特征，包括那双深邃且充满自信的眼睛。皮肤质感真实，保留了细微的毛孔，没有任何过度磨皮的痕迹，神情坚定且从容。\n\n姿态与构图：\n她采取低姿蹲坐的姿势，整个人物占据了画面约 80-85% 的高度，构图非常紧凑饱满。她双臂交叉抱于胸前，左腿向前弯曲，充分展示了大腿上的细节；右腿向后收拢。镜头从脚部的黑色高跟鞋到头顶的帽子完整覆盖全身，焦点锐利地集中在她的面部、发丝、制服纹理以及腿部的蕾丝细节上。\n\n服装与配饰：\n\n主体： 她穿着一套深藏青色警察风格短袖连身裙，剪裁合体，衣领上绣有精细的金色勋章补丁，袖口配有金色小徽章，金属与丝线的质感清晰可见。腰间束有一条黑色皮带。\n\n腿部： 穿着极具细节感的黑色超薄丝袜，左大腿处有精密的黑色蕾丝袜带细节。脚上是一双光亮的黑色皮革细高跟鞋。\n\n配饰： 头上斜戴着一顶精致的藏青色空乘风格小礼帽，帽子侧面的微型金色徽标清晰可见。\n\n画面质感：\n画面追求极致的高保真度和纹理对比，粗糙的柏油马路与精致的制服、丝袜、皮革高跟鞋形成鲜明对比。背景带有轻微的运动模糊，但整体依然保持了极简且不失力量感的纪实美学。",
