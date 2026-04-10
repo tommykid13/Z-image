@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-5lf267",
+      "title": "卧倒自拍",
+      "content": "拥有精致的韩式明星妆容，正仰面躺着。拍摄角度为正上方的俯视视角，使得她的面部相对于躯干呈现倒置状。她留着黑色长发，发丝凌乱，受重力影响自然地散落在面部和眼睛上，营造出真实的不完美感。\n\n她拥有水光玻璃肌，涂着光泽的红粉色唇彩，淡淡腮红和柔和眼线。眼神半睁，直视镜头，充满撩人、放松和迷人的气息，嘴巴微张，仿佛在轻柔呼吸。整体表情慵懒、毫无防备且深度亲密。\n\n她身材苗条但曲线优美，肤色温暖象牙白，皮肤光滑细腻，触感柔软温暖。身穿蕾丝深V细带吊带背心，深领口展现出明显的乳沟和上胸部皮肤，外搭一件深色毛绒针织开衫，开衫自然地从肩膀滑落露出光洁肌肤。脖子上戴着一条非常精致纤细的银项链，小吊坠落在乳沟处。右手轻轻触摸额头附近的头发。\n\n光照为暖色定向室内环境光，在下巴下方的颈部投下非常明显的深色阴影，突出了锁骨和胸部的高光。摄影风格为智能手机随意自拍美学，男友视角，亲密抓拍。特写肖像，3:4画幅，浅景深，面部清晰，背景略微失焦。背景是有纹理的浅米色沙发垫，边缘可见木地板，氛围私密、慵懒、居家温暖。\n\n负向提示词：插画，3D渲染，动漫，专业影棚摄影，僵硬姿势，塑料皮肤，过曝，不自然解剖结构，文字，水印，浓重的西式妆容，完美的影棚布光，扁平磨皮，直接生硬闪光灯，标准直立肖像构图。",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-5lf267.png",
+      "createdAt": "2026-03-23T09:21:34.783Z",
+      "updatedAt": "2026-04-10T05:39:41.944Z"
+    },
+    {
       "id": "prompt-ewkmrs",
       "title": "户外眼镜娘",
       "content": "1girl, side ponytail, blue eyes, sundress, flowers, summer vibe, park, shoulder tattoo, butterfly tattoo, DETAILER logo, (sky:1.2), clouds, golden hour, lace choker, scenery, breasts, light, shadow, focus on scenery, feet out of frame, glasses, adjusting eyewear, hand up, grass, water, lace trim, hair ribbon, mountain,\n[achyue:0.4],[(momoko \\momopoco\\:0.8)::0.3], [torino aqua::0.5], kiniro tofu, [junpaku karen:0.5],[(leveen:0.7):0.6], sencha bashira, [takashia \\(akimototakashia\\):0.7],  (masaki nanaya:0.7),  nagi itsuki, [aoi sakura \\(seak5545\\):0.5],\nmasterpiece, best quality, very aesthetic, high quality, newest, very awa, crisp, detailed skin texture,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:1>, <lora:ponyv6_noobV1_2_adamW:0.7>,",
@@ -329,17 +341,6 @@
       "imagePath": "/uploads/prompt-bx3fmc.png",
       "createdAt": "2026-03-23T16:06:48.186Z",
       "updatedAt": "2026-03-23T16:07:34.440Z"
-    },
-    {
-      "id": "prompt-5lf267",
-      "title": "卧倒自拍",
-      "content": "杨幂，拥有精致的韩式明星妆容，正仰面躺着。拍摄角度为正上方的俯视视角，使得她的面部相对于躯干呈现倒置状。她留着黑色长发，发丝凌乱，受重力影响自然地散落在面部和眼睛上，营造出真实的不完美感。\n\n她拥有水光玻璃肌，涂着光泽的红粉色唇彩，淡淡腮红和柔和眼线。眼神半睁，直视镜头，充满撩人、放松和迷人的气息，嘴巴微张，仿佛在轻柔呼吸。整体表情慵懒、毫无防备且深度亲密。\n\n她身材苗条但曲线优美，肤色温暖象牙白，皮肤光滑细腻，触感柔软温暖。身穿蕾丝深V细带吊带背心，深领口展现出明显的乳沟和上胸部皮肤，外搭一件深色毛绒针织开衫，开衫自然地从肩膀滑落露出光洁肌肤。脖子上戴着一条非常精致纤细的银项链，小吊坠落在乳沟处。右手轻轻触摸额头附近的头发。\n\n光照为暖色定向室内环境光，在下巴下方的颈部投下非常明显的深色阴影，突出了锁骨和胸部的高光。摄影风格为智能手机随意自拍美学，男友视角，亲密抓拍。特写肖像，3:4画幅，浅景深，面部清晰，背景略微失焦。背景是有纹理的浅米色沙发垫，边缘可见木地板，氛围私密、慵懒、居家温暖。\n\n负向提示词：插画，3D渲染，动漫，专业影棚摄影，僵硬姿势，塑料皮肤，过曝，不自然解剖结构，文字，水印，浓重的西式妆容，完美的影棚布光，扁平磨皮，直接生硬闪光灯，标准直立肖像构图。",
-      "categoryId": "portrait",
-      "tags": [
-        "真人"
-      ],
-      "createdAt": "2026-03-23T09:21:34.783Z",
-      "updatedAt": "2026-03-23T09:21:46.780Z"
     },
     {
       "id": "prompt-tna249",
