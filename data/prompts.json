@@ -20,7 +20,7 @@
   "prompts": [
     {
       "id": "prompt-ewkmrs",
-      "title": "眼镜户口",
+      "title": "户外眼镜娘",
       "content": "1girl, side ponytail, blue eyes, sundress, flowers, summer vibe, park, shoulder tattoo, butterfly tattoo, DETAILER logo, (sky:1.2), clouds, golden hour, lace choker, scenery, breasts, light, shadow, focus on scenery, feet out of frame, glasses, adjusting eyewear, hand up, grass, water, lace trim, hair ribbon, mountain,\n[achyue:0.4],[(momoko \\momopoco\\:0.8)::0.3], [torino aqua::0.5], kiniro tofu, [junpaku karen:0.5],[(leveen:0.7):0.6], sencha bashira, [takashia \\(akimototakashia\\):0.7],  (masaki nanaya:0.7),  nagi itsuki, [aoi sakura \\(seak5545\\):0.5],\nmasterpiece, best quality, very aesthetic, high quality, newest, very awa, crisp, detailed skin texture,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:1>, <lora:ponyv6_noobV1_2_adamW:0.7>,",
       "categoryId": "portrait",
       "tags": [
@@ -28,7 +28,7 @@
       ],
       "imagePath": "/uploads/prompt-ewkmrs.png",
       "createdAt": "2026-04-10T04:38:48.519Z",
-      "updatedAt": "2026-04-10T04:39:29.586Z"
+      "updatedAt": "2026-04-10T05:38:36.578Z"
     },
     {
       "id": "prompt-h2qv2m",
