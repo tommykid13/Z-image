@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-975tlg",
+      "title": "星空鸭子",
+      "content": "Surreal cinematic photoreal space vista of Earth from orbit with a sweeping curved horizon, bright blue oceans and swirling white cloud systems, a thin glowing atmosphere line, deep black space with a small crescent moon, in the foreground a cute yellow rubber duck seen from behind floating on a transparent water surface suspended above the planet, tiny ripples radiate from the duck and sparkling star like highlights glitter on the water, the duck casts a soft reflection and faint shadow in the ripples, ultra wide angle perspective, crisp planet detail, clean high contrast lighting, bright sunlit color palette with rich blues and whites and the saturated yellow duck, dreamy impossible scale, high resolution, sharp and majestic mood.d",
+      "categoryId": "portrait",
+      "tags": [
+        "科幻"
+      ],
+      "imagePath": "/uploads/prompt-975tlg.png",
+      "createdAt": "2026-04-13T06:52:45.980Z",
+      "updatedAt": "2026-04-13T06:53:29.161Z"
+    },
+    {
       "id": "prompt-hgtup5",
       "title": "蕾丝姿势",
       "content": "年轻东亚女性，20多岁，拥有深夜派对的美学风格。她直视镜头，眼神诱人、自信，嘴巴微张、放松，整体表情高冷、大胆且充满亲密的互动感。妆容呈现亚洲夜出魅力风格，哑光底妆，光泽红唇，微妙修容，鼻尖和脸颊上有强烈的闪光反射。黑色长发浓密蓬松，深侧分披在一侧肩膀上，发根蓬松凌乱，捕捉着硬光。\n\n身材纤细有曲线，腰部纤细（部分被遮挡），深V领口露出明显的乳沟。皮肤可见区域包括脸、颈、锁骨、深乳沟、裸肩、右全臂和部分左臂。肤色白皙如瓷，质地光滑写实，呈现出强烈热浪下微湿的裸露肌肤感。强烈的正面闪光在锁骨、胸部和手臂上形成明亮过曝的高光。她身体前倾靠近相机，重心依靠在画面下方看不见的表面上，构图亲密，略微偏离中心，头向下并向一侧倾斜。\n\n穿着黑色透视蕾丝连体衣，极深V领，睫毛蕾丝边，透视面料，下半身有微妙亮片，暴露的设计与苍白皮肤形成高反差。佩戴大号纹理银色圈形耳环，以及一条带有绿色扇形吊坠的精致金链。\n\n摄影风格为抓拍闪光灯快照，手机或紧凑型数码相机感，高角度俯拍，中近景（腰部以上），3:4画幅。原始质感，高对比度，轻微图像颗粒。光照为相机直闪，硬质正面光，在主体正后方投射出深邃锐利的黑色阴影，景深浅，深色背景柔化。背景为昏暗的室内休息室，深棕色/黑色墙壁，有木镶板和左边缘的百叶窗，氛围情绪化，深夜独家感，环境黑暗被前景闪光灯压制。\n\n整体氛围为原始派对抓拍，亲密大胆，闪光摄影核心，暗黑美学。高真实感，不完美的光照捕捉转瞬即逝的时刻，物理距离近，仿佛侵入个人空间。故事背景：她在黑暗俱乐部的桌子前倾身时闪光灯亮了。必须保留直闪、深V黑色蕾丝、绿色扇形吊坠、背景硬阴影。避免柔光箱、平面光照、完美对称、日光。负面提示包括柔光箱、平面光照、CGI、插画、端庄衣物、日光、明亮背景、影棚完美、均匀光照。",
