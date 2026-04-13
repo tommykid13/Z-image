@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-wqrd48",
+      "title": "寿司",
+      "content": "High-end food photography of a fresh sushi platter with glistening salmon, delicate rice texture, soy sheen, subtle reflections, and fine garnish detail. Studio-quality lighting with crisp edges and natural colors",
+      "categoryId": "portrait",
+      "tags": [
+        "其他"
+      ],
+      "imagePath": "/uploads/prompt-wqrd48.png",
+      "createdAt": "2026-04-13T06:58:25.966Z",
+      "updatedAt": "2026-04-13T06:58:52.832Z"
+    },
+    {
       "id": "prompt-975tlg",
       "title": "星空鸭子",
       "content": "Surreal cinematic photoreal space vista of Earth from orbit with a sweeping curved horizon, bright blue oceans and swirling white cloud systems, a thin glowing atmosphere line, deep black space with a small crescent moon, in the foreground a cute yellow rubber duck seen from behind floating on a transparent water surface suspended above the planet, tiny ripples radiate from the duck and sparkling star like highlights glitter on the water, the duck casts a soft reflection and faint shadow in the ripples, ultra wide angle perspective, crisp planet detail, clean high contrast lighting, bright sunlit color palette with rich blues and whites and the saturated yellow duck, dreamy impossible scale, high resolution, sharp and majestic mood.d",
