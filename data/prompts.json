@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-pynzmn",
+      "title": "黑白猫",
+      "content": "一张黑白花猫脸部的特写照片，聚焦于它的鼻子和牙齿。猫正以一种滑稽、异想天开的方式咬着金属笼子，仿佛在试图逃跑。鼻子和嘴巴周围的毛发柔软蓬松，白色的胡须向外伸展。灯光明亮，突出了毛发的质感和鼻子的湿润感。背景模糊，形成浅景深，将注意力保持在猫的面部特征上。视角为低角度仰拍，增加了一种亲密和贴近的感觉。由于牙齿可见，整体氛围顽皮且略带淘气。",
+      "categoryId": "portrait",
+      "tags": [
+        "其他"
+      ],
+      "imagePath": "/uploads/prompt-pynzmn.png",
+      "createdAt": "2026-04-13T07:11:43.016Z",
+      "updatedAt": "2026-04-13T07:12:09.587Z"
+    },
+    {
       "id": "prompt-wqrd48",
       "title": "寿司",
       "content": "High-end food photography of a fresh sushi platter with glistening salmon, delicate rice texture, soy sheen, subtle reflections, and fine garnish detail. Studio-quality lighting with crisp edges and natural colors",
