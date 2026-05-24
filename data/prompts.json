@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-empbrf",
+      "title": "光影回头一眼",
+      "content": "A photorealistic cinematic masterpiece capturing a profound narrative moment, defined by high-contrast mood and rich atmospheric depth. 画幅比例为 9:16。\n\n【人物变量】：一位展现出自然女性张力的年轻女性正在上楼梯。她在行进间停下脚步，微微转过身，带着深刻且令人动容的眼神向后凝视着镜头。她留着一头浓密、随风轻轻飘动的长波浪卷发，发丝在光影下富有立体层次。她身穿一条剪裁贴身的紧身短裤（tight shorts），展现出匀称流畅的腿部线条与自然的身体比例。面部皮肤展现出极高阶的写实肌理，清晰可辨细微的毛孔与自然的水润光泽。\n\n【场景/底色变量】：主体置身于一个黑暗且充满电影感的幽深走廊楼梯间（dark cinematic hallway）。空气中弥漫着淡淡的薄雾（fog atmosphere），使得远景自然向深处隐没，营造出强烈的空间深度。整个空间笼罩在戏剧性的戏剧明暗阴影（moody shadows）中，形成了前方冷色调暗部与后方光源处温暖光晕的冷暖视觉对比（warm and cool color contrast）。\n\n视觉媒介与技术要求：模拟经典 35mm 胶片摄影的镜头特性，采用压低的低角度仰视透视（low angle perspective）进行构图，增强画面的戏剧张力与空间纵深感。光影布局极为讲究，强烈的体积光（volumetric light）穿透薄雾，在人物的轮廓、肩膀以及波浪长发边缘勾勒出一圈耀眼且锐利的戏剧性轮廓光（dramatic rim light）。画面保留了细腻且富有质感的电影胶片颗粒（film grain），拒绝任何低阶的平淡光线，呈现完美的照片级写实度与故事性。\n\n反向提示词 (Negative Prompt)：不良的解剖结构，多余的肢体，畸形的手，过度曝光的皮肤，卡通，电脑生成图像（CGI），低细节，模糊的脸，平淡的光线，变异的身体 --ar 9:16",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-empbrf.png",
+      "createdAt": "2026-05-24T13:28:01.880Z",
+      "updatedAt": "2026-05-24T13:28:35.994Z"
+    },
+    {
       "id": "prompt-eo717o",
       "title": "幻光猫咪",
       "content": "A photorealistic anime digital painting depicting a majestic and breathtaking natural spectacle, showcasing a dynamic, swirling sense of movement and flow.\n\n【主體變量】：在畫面正中央，一個由翻騰的水流與璀璨光芒交織而成的巨大旋風氣流充斥著整個空間。在這股水與光的風暴核心，逐漸凝聚並幻化出一尊威嚴、優雅且具備神聖感的大型貓咪剪影（majestic cat silhouette）。\n\n【核心元素】：無數條精緻、空靈的奇幻金魚（ethereal goldfish）在貓咪周圍的水流中歡快穿梭。這些金魚閃爍著如寶石般耀眼的光芒，隨著旋渦的軌跡流動，鱗片在光影折射下散發出波光粼粼的半透明質感，留下一道道華麗的光暈拖尾。\n\n【場景/底色變量】：整個背景融入了水生幻境的世界觀，四周是無邊無際的深邃流動空間。光線從水流風暴的內部爆發出來，將深沉的背景暈染成層次豐富的湛藍、初綻的極光綠與耀眼的流金色澤。強烈的動態線條與飛濺的細微水滴在空中劃出完美的弧線，營造出充滿純粹能量與詩意奇蹟的氛圍。\n\n視覺媒介與技術要求：融合現代頂級新海誠式動畫電影的精緻光學保真度與超寫實繪畫技法，畫幅比例為 9:16。水流的折射、氣泡的折射率以及光線在水中的散射（Caustics）皆經過極其精細的渲染。畫面焦點凝聚在中央貓咪剪影與流動金魚的交界處，邊緣帶有夢幻的動態模糊與柔和的光暈擴散（soft glow bloom），呈現出極具震撼力、讓人想屏息凝視的藝術傑作。 --ar 9:16",
