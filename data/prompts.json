@@ -19,6 +19,16 @@
   ],
   "prompts": [
     {
+      "id": "prompt-43tvgp",
+      "title": "韩剧照",
+      "content": "一张极具奢华时尚杂志风格的超写实拼贴人像。中央主体是【附图角色】，身穿一件带有精致刺绣和飘逸面料的暗翡翠绿奢华礼服，姿态优雅。背景是由同一个韩国女孩的多张特写肖像组成的黑白美学拼贴画，这些肖像被排列在大型圆形弧形框架内。中央的全身主体保持全彩，而周围的肖像则是单色的。",
+      "categoryId": "portrait",
+      "tags": [],
+      "imagePath": "/uploads/prompt-43tvgp.png",
+      "createdAt": "2026-05-24T14:09:23.088Z",
+      "updatedAt": "2026-05-24T14:09:51.822Z"
+    },
+    {
       "id": "prompt-empbrf",
       "title": "光影回头一眼",
       "content": "A photorealistic cinematic masterpiece capturing a profound narrative moment, defined by high-contrast mood and rich atmospheric depth. 画幅比例为 9:16。\n\n【人物变量】：一位展现出自然女性张力的年轻女性正在上楼梯。她在行进间停下脚步，微微转过身，带着深刻且令人动容的眼神向后凝视着镜头。她留着一头浓密、随风轻轻飘动的长波浪卷发，发丝在光影下富有立体层次。她身穿一条剪裁贴身的紧身短裤（tight shorts），展现出匀称流畅的腿部线条与自然的身体比例。面部皮肤展现出极高阶的写实肌理，清晰可辨细微的毛孔与自然的水润光泽。\n\n【场景/底色变量】：主体置身于一个黑暗且充满电影感的幽深走廊楼梯间（dark cinematic hallway）。空气中弥漫着淡淡的薄雾（fog atmosphere），使得远景自然向深处隐没，营造出强烈的空间深度。整个空间笼罩在戏剧性的戏剧明暗阴影（moody shadows）中，形成了前方冷色调暗部与后方光源处温暖光晕的冷暖视觉对比（warm and cool color contrast）。\n\n视觉媒介与技术要求：模拟经典 35mm 胶片摄影的镜头特性，采用压低的低角度仰视透视（low angle perspective）进行构图，增强画面的戏剧张力与空间纵深感。光影布局极为讲究，强烈的体积光（volumetric light）穿透薄雾，在人物的轮廓、肩膀以及波浪长发边缘勾勒出一圈耀眼且锐利的戏剧性轮廓光（dramatic rim light）。画面保留了细腻且富有质感的电影胶片颗粒（film grain），拒绝任何低阶的平淡光线，呈现完美的照片级写实度与故事性。\n\n反向提示词 (Negative Prompt)：不良的解剖结构，多余的肢体，畸形的手，过度曝光的皮肤，卡通，电脑生成图像（CGI），低细节，模糊的脸，平淡的光线，变异的身体 --ar 9:16",
