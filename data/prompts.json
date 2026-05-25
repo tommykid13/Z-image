@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-48dfku",
+      "title": "古装",
+      "content": "一位绝美古风女子端坐在古色古香的木质亭台中，身着华丽的米白色金丝刺绣汉服，头戴繁复的金凤凰珍珠凤冠，珠链轻轻摇曳。她神态宁静优雅，眼波温柔含情，微微侧首凝视前方。\n\n微风徐徐吹过，薄纱衣袖和裙摆如云雾般轻柔飘动，樱花花瓣在空中缓缓飞舞。金色的阳光透过古朴的木柱洒下，营造梦幻的光影。整体画面充满中国古典诗意，空灵、唯美、富有意境，极致细腻，电影感光影，8K画质。",
+      "categoryId": "portrait",
+      "tags": [
+        "真人"
+      ],
+      "imagePath": "/uploads/prompt-48dfku.png",
+      "createdAt": "2026-05-25T08:53:29.110Z",
+      "updatedAt": "2026-05-25T08:53:54.109Z"
+    },
+    {
       "id": "prompt-9svryx",
       "title": "Cosplay捉拍",
       "content": "(春丽)的角色由一位28歲美女 coser 高度還原，保留角色的髮型、髮色、髮飾、服裝結構、代表性配件與整體氣質，但呈現為現實生活中的 cosplay 造型。  \n\n場景是【電影院的售票口前】，不是棚拍，也不是商業寫真，而是像路人用 iPhone 隨手拍到的一張真實生活照片。畫面帶有日常感、環境雜亂感與偶然感，背景中可見真實生活細節，例如路人、桌椅、燈光、牆面、招牌、反光、物品遮擋或現場雜物。 \n\ncoser 正在自然活動中，偶然察覺鏡頭，微微轉頭看向拍攝者，露出輕鬆的淺笑，或隨手比耶，表情不是刻意擺拍，而是短暫回應鏡頭的瞬間。人物不要過度居中，構圖略微傾斜，身體可被前景物件輕微遮擋或局部裁切，保留真實抓拍的不完美。\n\n照片風格為 iPhone 手持抓拍，輕微透視變形，自然環境光，對焦略有生活感但人物臉部清楚，背景可辨識但略微柔化。加入輕微動態模糊、細微感光噪點、JPEG 壓縮感、鏡頭油污造成的柔霧、現場光源混雜感。整體像從微信聊天記錄或社群限動裡保存下來的照片。\n\n重點是角色還原度、生活場景真實感、偶然抓拍感，而不是精修棚拍感。真人寫實攝影，natural candid photo, iPhone snapshot, realistic cosplay, casual street photography, imperfect composition, real-life atmosphere。\n\n負面提示：\nstudio photoshoot, commercial poster, perfect centered composition, over-polished AI look, plastic skin, waxy face, beauty filter, glossy rendering, fake background, empty background, overly clean scene, unnatural pose, exaggerated sexy pose, low angle body focus, blurry face, bad anatomy, extra fingers, text, watermark",
