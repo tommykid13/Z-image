@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-h0wb5p",
+      "title": "小松鼠",
+      "content": "A cute chipmunk wearing a tiny straw hat watering miniature tomato plants on a sunny windowsill using a thimble as a\nwatering can. Bright sunny day, water droplets in the air, joyful and wholesome atmosphere, extremely detailed fur and\nplants, warm realistic style",
+      "categoryId": "portrait",
+      "tags": [
+        "其他"
+      ],
+      "imagePath": "/uploads/prompt-h0wb5p.png",
+      "createdAt": "2026-05-28T14:32:14.215Z",
+      "updatedAt": "2026-05-28T14:32:57.697Z"
+    },
+    {
       "id": "prompt-etog7v",
       "title": "漫画照片感",
       "content": "Vintage mid-century European storybook illustration, rain-soaked evening boulevard, Camila Ortega stepping slowly from a glossy crimson sedan beneath drifting rain, warm olive skin softly illuminated by storefront light, elegant butter-yellow dress with relaxed flowing silhouette, grounded curvy presence, calm stabilizing body language, gentle composed expression, cinematic domestic-noir atmosphere. Wet cobblestones glowing with reflected amber, teal, and red light, muted cafés and shopfronts dissolving into mist, deep teal storm sky with layered cloud texture, pedestrians blurred into soft motion around her while she remains visually anchored. Strong diagonal composition, graceful physical staging, emotionally weighted stillness, restrained pastel-and-ink palette with selective saturated accents. Hand-painted gouache-and-casein commercial illustration finish, loose graphite underdrawing visible beneath paint layers, delicate ink contour lines, dry-brush textures, subtle pigment bloom, aged offset lithograph print surface, slight halftone grain and plate drift, mid-century European poster-art sensibility, poetic urban melancholy, painterly and stylized rather than photorealistic.",
