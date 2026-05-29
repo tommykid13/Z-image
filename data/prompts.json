@@ -19,6 +19,18 @@
   ],
   "prompts": [
     {
+      "id": "prompt-0a5rgg",
+      "title": "锦鲤剪纸拼贴",
+      "content": "a giant koi fish twisting through a vertical field of translucent cyan, coral red, lemon yellow, and milky white paper layers, the fish viewed from above as if suspended just beneath the surface of water, its body built from overlapping stained-glass-like color planes, visible rice-paper fibers, soft ink bleeding, and sharp cut-paper edges, scales rendered as small irregular patches of orange, vermilion, pale gold, and deep blue-green rather than realistic detail, the fins dissolving into flowing translucent ribbons that cross the frame diagonally, circular water ripples drawn as thin imperfect graphite rings, scattered floating lily fragments and torn color swatches drifting around the fish, no human figure, no skull, no typography, luminous Japanese print meets modern paper collage, delicate but saturated, color bleeding through layers, serene aquatic motion pushed into abstract stained-paper design\nNegative prompt: blurry ugly bad,\nSteps: 12, CFG scale: 1, Sampler: Euler, Seed: 651820612397227, Model: juggernautZ_v10ByRundiffusion, width: 1088, height: 1792, Version: ComfyUI",
+      "categoryId": "portrait",
+      "tags": [
+        "插画"
+      ],
+      "imagePath": "/uploads/prompt-0a5rgg.png",
+      "createdAt": "2026-05-29T10:36:30.637Z",
+      "updatedAt": "2026-05-29T10:37:53.209Z"
+    },
+    {
       "id": "prompt-h0wb5p",
       "title": "小松鼠",
       "content": "A cute chipmunk wearing a tiny straw hat watering miniature tomato plants on a sunny windowsill using a thimble as a\nwatering can. Bright sunny day, water droplets in the air, joyful and wholesome atmosphere, extremely detailed fur and\nplants, warm realistic style",
